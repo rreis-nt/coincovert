@@ -8,7 +8,7 @@
 
 > Um conversor de moedas moderno e intuitivo, desenvolvido com React e Vite, oferecendo conversões em tempo real com uma interface elegante e responsiva.
 
-![CoinConvert Preview](./assets/preview.png)
+
 
 ## ✨ Características Principais
 
@@ -165,8 +165,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Ryan Reis** - *Desenvolvedor Full-Stack*
 
 - GitHub: [@rreis-nt](https://github.com/rreis-nt)
-- LinkedIn: [Seu LinkedIn]
-- Email: seu-email@exemplo.com
+- LinkedIn: [Ryan Antonio](https://www.linkedin.com/in/ryanreisoliveira/)
+- Email: ryanreisoliveira08@gmail.com
 
 ## 🙏 Agradecimentos
 
